@@ -604,7 +604,7 @@
     "neo-async": "^2.6.1",
     "nice-try": "^1.0.5",
     "no-case": "^2.3.2",
-    "node-forge": "^0.7.6",
+    "node-forge": "^0.10.0",
     "node-int64": "^0.4.0",
     "node-libs-browser": "^2.2.0",
     "node-notifier": "^5.4.0",
